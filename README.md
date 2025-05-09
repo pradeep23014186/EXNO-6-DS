@@ -110,4 +110,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/0f1d296c-61f4-4add-a870-6a6d416c3be5)
 
 # Result:
- Include your result here
+ Thus, the Data visulaization using seaborn python library for the given data is implemented sucessfully.
